@@ -6,5 +6,7 @@ PS - As always your information remains under your control at all times, Teh Sho
 
 User Feedback on any bugs will determine android/ios rollouts. 
 
+https://files.fm/u/pymad78j6
+
 UI / UX subject to change. This is primarily for anyone wanting to get started early. 
 Victory, Forever. 
